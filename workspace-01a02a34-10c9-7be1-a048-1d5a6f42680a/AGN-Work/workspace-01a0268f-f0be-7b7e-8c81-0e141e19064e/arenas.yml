@@ -1,0 +1,28 @@
+# ᴀᴇᴛʜᴇʀɢʟɪᴛᴄʜ | Арены TNT-Run
+# Все миры и координаты хранятся ОТДЕЛЬНО от config.yml
+# Можно добавлять несколько арен, но сейчас активна одна (default)
+
+arenas:
+  default:
+    world: "world_tntrun"
+    center:
+      x: 0.5
+      y: 80
+      z: 0.5
+      yaw: 0
+      pitch: 0
+    lobby:
+      x: 0.5
+      y: 90
+      z: -25.5
+      yaw: 0
+      pitch: 0
+    radius: 20
+    floor-y: 80
+    void-y: 55
+    spawns:
+      # - {x: 5.5, y: 81, z: 5.5, yaw: 0, pitch: 0}
+      []
+
+# Какая арена активна сейчас
+active-arena: "default"
