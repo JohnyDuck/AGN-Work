@@ -1,0 +1,5 @@
+nbtlib==2.0.4
+numpy==2.4.6
+Pillow==12.3.0
+mcrcon==0.7.0
+litemapy==0.11.0b0

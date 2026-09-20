@@ -1,0 +1,9 @@
+{
+  "independent_decoder": "litemapy 0.11.0b0",
+  "dimensions": [
+    22,
+    7,
+    30
+  ],
+  "vanilla_structure_import_cycle": "pass"
+}

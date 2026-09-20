@@ -1,0 +1,96 @@
+{
+  "minecraft": "vanilla Java 1.21.4",
+  "data_version": 4189,
+  "cycles": [
+    {
+      "cycle": 1,
+      "pass": true
+    },
+    {
+      "cycle": 2,
+      "pass": true
+    },
+    {
+      "cycle": 3,
+      "pass": true
+    },
+    {
+      "cycle": 4,
+      "pass": true
+    },
+    {
+      "cycle": 5,
+      "pass": true
+    },
+    {
+      "cycle": 6,
+      "pass": true
+    },
+    {
+      "cycle": 7,
+      "pass": true
+    },
+    {
+      "cycle": 8,
+      "pass": true
+    },
+    {
+      "cycle": 9,
+      "pass": true
+    },
+    {
+      "cycle": 10,
+      "pass": true
+    },
+    {
+      "cycle": 11,
+      "pass": true
+    },
+    {
+      "cycle": 12,
+      "pass": true
+    },
+    {
+      "cycle": 13,
+      "pass": true
+    },
+    {
+      "cycle": 14,
+      "pass": true
+    },
+    {
+      "cycle": 15,
+      "pass": true
+    },
+    {
+      "cycle": 16,
+      "pass": true
+    },
+    {
+      "cycle": 17,
+      "pass": true
+    },
+    {
+      "cycle": 18,
+      "pass": true
+    },
+    {
+      "cycle": 19,
+      "pass": true
+    },
+    {
+      "cycle": 20,
+      "pass": true
+    }
+  ],
+  "maintenance_open_and_close": true,
+  "retrigger_gaps_game_ticks": [
+    22,
+    40,
+    80,
+    110,
+    125,
+    140,
+    150
+  ]
+}
