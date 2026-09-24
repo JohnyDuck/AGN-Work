@@ -1,0 +1,56 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"custom_menu_#1\"'}}"
+      },
+      "model": "magicrpg:item/custom_menu_1"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"custom_menu_#2\"'}}"
+      },
+      "model": "magicrpg:item/custom_menu_2"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"custom_menu_#3\"'}}"
+      },
+      "model": "magicrpg:item/custom_menu_3"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"Огненный свиток\"'}}"
+      },
+      "model": "magicrpg:item/magic_scroll_fire"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"Ледяной свиток\"'}}"
+      },
+      "model": "magicrpg:item/magic_scroll_ice"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"Свиток молнии\"'}}"
+      },
+      "model": "magicrpg:item/magic_scroll_lightning"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"Свиток исцеления\"'}}"
+      },
+      "model": "magicrpg:item/magic_scroll_heal"
+    },
+    {
+      "predicate": {
+        "nbt": "{display:{Name:'\"Свиток телепортации\"'}}"
+      },
+      "model": "magicrpg:item/magic_scroll_teleport"
+    }
+  ]
+}

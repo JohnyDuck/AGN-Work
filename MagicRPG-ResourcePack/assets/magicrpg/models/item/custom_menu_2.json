@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "magicrpg:item/custom_menu_2"
+  }
+}
